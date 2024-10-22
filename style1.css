@@ -1,0 +1,38 @@
+.content{
+    background-color: blueviolet;
+}
+.content h1{
+    color:black;
+    text-align: center;
+    background-color: aqua;
+    border:2px solid brown;
+    font-size: 30px;
+    border-radius: 6px;
+    text-transform: capitalize;
+} 
+.head-content h1{
+    color:#000000;
+    text-align: center;
+    background-color: bisque;
+    border:2px solid rebeccapurple;
+    
+}
+.content p{
+    color: aliceblue;
+    text-align: center;
+    background-color: #000000;
+    border: 2px solid #ff0000;
+    border-radius: 6px; 
+font-size: 20px;
+}
+.head-content{
+    background-color: rgba(44, 107, 201, 0.562);
+}
+.head-content p{
+    color: aliceblue;
+    text-align: center;
+    background-color: #000000;
+    border: 2px solid #ff0000;
+    border-radius: 6px; 
+font-size: 20px;
+}
